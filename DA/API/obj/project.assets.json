@@ -1267,11 +1267,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vaxiz\\Desktop\\DA\\da\\Api\\API.csproj",
+      "projectUniqueName": "C:\\Users\\vaxiz\\Desktop\\programowanie\\git\\MySite\\da\\api\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\vaxiz\\Desktop\\DA\\da\\Api\\API.csproj",
+      "projectPath": "C:\\Users\\vaxiz\\Desktop\\programowanie\\git\\MySite\\da\\api\\API.csproj",
       "packagesPath": "C:\\Users\\vaxiz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vaxiz\\Desktop\\DA\\da\\Api\\obj\\",
+      "outputPath": "C:\\Users\\vaxiz\\Desktop\\programowanie\\git\\MySite\\da\\api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
