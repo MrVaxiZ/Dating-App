@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HJKjW0jEIX+DtXl0Zl0iti5XHPArwk5qeolJmNRyLi8OfmA7eYz2k9a/uFuF5olHPrQibq2jOFDMsgyCrSfEJw==",
+  "dgSpecHash": "lkYU6EhwtEW8ieZyrixM0P7SFHpykMeh1fqhnZO8XqQDuendh2si0sXlnpjIOXWGAFjEIi1w4hcxKJAZG4sIuA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vaxiz\\Desktop\\programowanie\\git\\MySite\\DA\\api\\API.csproj",
+  "projectFilePath": "C:\\Users\\vaxiz\\Desktop\\programowanie\\git\\MySite\\DA\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vaxiz\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\vaxiz\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.1\\microsoft.data.sqlite.core.7.0.1.nupkg.sha512",
