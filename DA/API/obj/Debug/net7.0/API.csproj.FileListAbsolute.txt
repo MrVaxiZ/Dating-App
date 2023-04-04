@@ -184,3 +184,11 @@ C:\Users\vaxiz\Desktop\programowanie\git\MySite\da\api\obj\Debug\net7.0\refint\A
 C:\Users\vaxiz\Desktop\programowanie\git\MySite\da\api\obj\Debug\net7.0\API.pdb
 C:\Users\vaxiz\Desktop\programowanie\git\MySite\da\api\obj\Debug\net7.0\API.genruntimeconfig.cache
 C:\Users\vaxiz\Desktop\programowanie\git\MySite\da\api\obj\Debug\net7.0\ref\API.dll
+C:\Users\vaxiz\Desktop\programowanie\git\MySite\DA\API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\vaxiz\Desktop\programowanie\git\MySite\DA\API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vaxiz\Desktop\programowanie\git\MySite\DA\API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vaxiz\Desktop\programowanie\git\MySite\DA\API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vaxiz\Desktop\programowanie\git\MySite\DA\API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vaxiz\Desktop\programowanie\git\MySite\DA\API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\vaxiz\Desktop\programowanie\git\MySite\DA\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vaxiz\Desktop\programowanie\git\MySite\DA\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
