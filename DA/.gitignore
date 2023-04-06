@@ -12,8 +12,8 @@
 *.dll
 *.cache
 *.pdb
-/obj
-/bin
+./API/obj
+./API/bin
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
