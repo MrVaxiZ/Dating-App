@@ -22,5 +22,9 @@ namespace API.Entities
 
         public List<UserLike> LikedByUsers { get; set; }
         public List<UserLike> LikedUsers { get; set; }
+
+        public List<Message> MessagesSend { get; set; }
+        public List<Message> MessagesReceived { get; set; }
+
     }
 }
